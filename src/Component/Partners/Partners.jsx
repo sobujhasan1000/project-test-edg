@@ -4,7 +4,7 @@ import PartnerCard from "./PartnerCard";
 const Partners = () => {
   const [partners, setPartners] = useState([]);
   useEffect(() => {
-    fetch("./data.json")
+    fetch("http://localhost:5000/info")
       .then((res) => res.json())
       .then((data) => setPartners(data));
   }, []);
