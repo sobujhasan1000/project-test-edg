@@ -50,13 +50,13 @@ const Nav = () => {
             Home
           </a>
           <a
-            href="#"
+            href="about"
             className="text-[#EE366E] hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
           >
             About
           </a>
           <a
-            href="#"
+            href="contact-us"
             className="text-[#EE366E] hover:bg-gray-700 px-3 py-2 rounded-md text-sm font-medium"
           >
             Contact
@@ -73,13 +73,13 @@ const Nav = () => {
               Home
             </a>
             <a
-              href="#"
+              href="about"
               className="text-[#EE366E] hover:bg-gray-700 px-3 py-2 rounded-md text-base font-medium"
             >
               About
             </a>
             <a
-              href="#"
+              href="contact-us"
               className="text-[#EE366E] hover:bg-gray-700 px-3 py-2 rounded-md text-base font-medium"
             >
               Contact
