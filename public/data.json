@@ -1,0 +1,207 @@
+[
+  {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "location": "New York City",
+    "gender": "female",
+    "age": 30,
+    "profession": "Software Engineer",
+    "favorites": ["Hiking", "Reading", "Cooking"],
+    "interestedIn": "male",
+    "salary": 80000,
+    "familyMembers": [
+      {
+        "name": "John",
+        "relation": "brother",
+        "age": 28
+      },
+      {
+        "name": "Sarah",
+        "relation": "sister",
+        "age": 24
+      }
+    ]
+  },
+  {
+    "name": "Bob",
+    "email": "bob@example.com",
+    "location": "Los Angeles",
+    "gender": "male",
+    "age": 28,
+    "profession": "Graphic Designer",
+    "favorites": ["Photography", "Travel", "Movies"],
+    "interestedIn": "female",
+    "salary": 60000,
+    "familyMembers": [
+      {
+        "name": "Michael",
+        "relation": "father",
+        "age": 58
+      },
+      {
+        "name": "Lisa",
+        "relation": "mother",
+        "age": 55
+      }
+    ]
+  },
+  {
+    "name": "Eve",
+    "email": "eve@example.com",
+    "location": "London",
+    "gender": "non-binary",
+    "age": 25,
+    "profession": "Writer",
+    "favorites": ["Writing", "Art", "Music"],
+    "interestedIn": "non-binary",
+    "salary": 45000,
+    "familyMembers": [
+      {
+        "name": "Alex",
+        "relation": "partner",
+        "age": 30
+      }
+    ]
+  },
+  {
+    "name": "John",
+    "email": "john@example.com",
+    "location": "Chicago",
+    "gender": "male",
+    "age": 35,
+    "profession": "Doctor",
+    "favorites": ["Swimming", "Cooking", "Yoga"],
+    "interestedIn": "female",
+    "salary": 100000,
+    "familyMembers": [
+      {
+        "name": "Mary",
+        "relation": "wife",
+        "age": 32
+      },
+      {
+        "name": "David",
+        "relation": "son",
+        "age": 7
+      }
+    ]
+  },
+  {
+    "name": "Emily",
+    "email": "emily@example.com",
+    "location": "San Francisco",
+    "gender": "female",
+    "age": 27,
+    "profession": "Marketing Manager",
+    "favorites": ["Running", "Photography", "Movies"],
+    "interestedIn": "male",
+    "salary": 75000,
+    "familyMembers": [
+      {
+        "name": "Sophia",
+        "relation": "sister",
+        "age": 29
+      }
+    ]
+  },
+  {
+    "name": "Jake",
+    "email": "jake@example.com",
+    "location": "Seattle",
+    "gender": "male",
+    "age": 32,
+    "profession": "Architect",
+    "favorites": ["Travel", "Painting", "Camping"],
+    "interestedIn": "female",
+    "salary": 85000,
+    "familyMembers": [
+      {
+        "name": "Emma",
+        "relation": "partner",
+        "age": 31
+      }
+    ]
+  },
+  {
+    "name": "Lily",
+    "email": "lily@example.com",
+    "location": "Miami",
+    "gender": "female",
+    "age": 29,
+    "profession": "Teacher",
+    "favorites": ["Dancing", "Reading", "Gardening"],
+    "interestedIn": "male",
+    "salary": 55000,
+    "familyMembers": [
+      {
+        "name": "Oliver",
+        "relation": "brother",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "name": "Max",
+    "email": "max@example.com",
+    "location": "Austin",
+    "gender": "male",
+    "age": 26,
+    "profession": "Software Developer",
+    "favorites": ["Gaming", "Tech", "Cooking"],
+    "interestedIn": "female",
+    "salary": 70000,
+    "familyMembers": [
+      {
+        "name": "Sophie",
+        "relation": "sister",
+        "age": 23
+      }
+    ]
+  },
+  {
+    "name": "Nora",
+    "email": "nora@example.com",
+    "location": "Denver",
+    "gender": "female",
+    "age": 31,
+    "profession": "Lawyer",
+    "favorites": ["Skiing", "Theater", "Volunteering"],
+    "interestedIn": "male",
+    "salary": 90000,
+    "familyMembers": [
+      {
+        "name": "Lucas",
+        "relation": "brother",
+        "age": 30
+      },
+      {
+        "name": "Ella",
+        "relation": "sister",
+        "age": 27
+      }
+    ]
+  },
+  {
+    "name": "Ryan",
+    "email": "ryan@example.com",
+    "location": "Boston",
+    "gender": "male",
+    "age": 33,
+    "profession": "Business Analyst",
+    "favorites": ["Cycling", "Fishing", "Movies"],
+    "interestedIn": "female",
+    "salary": 80000,
+    "familyMembers": [
+      {
+        "name": "Jason",
+        "relation": "brother",
+        "age": 35
+      },
+      {
+        "name": "Megan",
+        "relation": "sister",
+        "age": 28
+      }
+    ]
+  }
+]
